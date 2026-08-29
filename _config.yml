@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mohammed Almulla / Morologi3"
+title                    : "Mohammed Almulla"
 title_separator          : "-"
 name                     : &name "Mohammed Almulla"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Mohammed Almulla"
   pronouns         : # example: "she/her"  
-  bio              : "Rising Deep Learning Student"
+  bio              : "Rising NLP Researcher"
   location         : "UAE, Dubai"
   employer         : 
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   dribbble         : # Username
   github           : "Morologi3"
   kaggle           : # Username  
-  stackoverflow    : "16215201/morologi3" # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
@@ -72,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  substack: "https://mindtechsavant.substack.com/"
 
 
 # Site Settings

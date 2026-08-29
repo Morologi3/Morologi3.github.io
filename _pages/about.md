@@ -7,12 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi
-
-I'm an undergraduate student in Information security at UAE University.
-
-During studying for my courses in UAE University, I discovered my passion for Artificial Intelligence, and started to go deep into it. After that I discovered Andrew NG course on deep learning were it really helped me to enlighten my insight and remove difficulties.
-
-On the research side, most of my works done in UAE University with Dr. Jose Berengueres, especially in structuring data, and building models to fetch these data.
-
-My life outside all of this is reading about natural sciences, and history. To be satisfied as dark academian INTJ :)
+Hi! I’m a master’s student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), where I’m fortunate to be advised by Prof. Tatsuki Kuribayashi and work with the [PALM team]([PALM_TEAM_URL](https://palm-mbzuai.github.io/)). My research focuses on natural language processing, particularly mechanistic interpretability. Previously, I studied Information Security at United Arab Emirates University, where I worked with Dr. Jose Berengueres and Dr. Munchjargal Gochoo on data structuring and machine learning, and with Dr. Fida Dankar on security vulnerabilities in websites.
